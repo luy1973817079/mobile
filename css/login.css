@@ -1,0 +1,32 @@
+*{margin: 0;padding: 0;}
+a{text-decoration: none;}
+.head{width: 100%;height: 0.64rem;background: url('../images/header.jpg') no-repeat;background-size: cover;}
+.head_inner{width: 100%;height: 0.2rem;padding-top: 0.34rem;}
+.head_inner p{width: 50%;height: 0.2rem;float: left;font-size: 0.17rem;color: #fff;}
+.head_inner a{width: 3.93%;height: 0.2rem;display: block;padding-left: 3.3%;}
+.head_inner img{width: 100%;height: 0.2rem;}
+.login{width: 73.1%;height: 3.13rem;margin: 0.68rem auto;}
+.login_logo{width: 26.7%;height: 0.74rem;background: url("../images/login_tu.jpg") no-repeat;background-size:  100% 0.74rem;
+    margin: 0.46rem auto;}
+.input{width: 100%;height: 1.7rem;}
+.input input{width: 100%;border: 0;border-bottom: 1px solid #ccc;font-size: 0.13rem;color: #666;
+    display: block;padding:0 0 0.045rem 6.7%;margin-bottom: 0.32rem;}
+.input input:first-child{background: url("../images/login_p.jpg") no-repeat;background-size: 3.1% 0.11rem;}
+.pass{background: url("../images/login_pass.jpg") no-repeat;background-size: 3.1% 0.11rem;}
+.input a{width: 100%;height: 0.33rem;font-size: 0.15rem;color: #fff;background: #9966ff;display: block;
+    text-align: center;line-height: 0.33rem;border-radius: 13.4%;}
+.input p{height: 0.11rem;font-size: 0.12rem;color: #ff9933;;margin-top: 0.13rem;float: right;margin-right: 1.3%;}
+.login_icon{width: 93.9%;height: 0.54rem;margin: 0 auto;}
+.icon_text{width: 83.5%;height: 0.1rem;margin: 0 auto;}
+.icon_text p{float: left;}
+.icon_text p:first-child,.icon_text p:last-child{width: 28.8%;border: 1px solid #f5f5f5;line-height:0.1rem; }
+.text{width: 29.3%;height: 0.1rem;text-align: center;color: #7d7d7d;line-height:0.1rem;font-size: 0.11rem;padding: 0 4%; }
+.icon{width: 48%;height: 0.29rem;margin: 0.25rem auto;}
+.icon a{float: left;}
+.qq{width: 14.4%;height: 0.28rem;margin-right: 25%;}
+.weixin{width: 18.9%;height: 0.29rem;margin-right: 22.2%;}
+.weibo{width: 19.4%;height: 0.28rem;}
+.qq img,.weixin img,.weibo img{width: 100%;height: 0.28rem;display: block;}
+.footer{width: 21.1%;height: 0.14rem;margin: 0.94rem auto;font-size: 0.16rem;line-height: 0.12rem;}
+.footer a{width: 7.59%;height: 0.12rem;display: block;float: right;line-height: 0.12rem;}
+.footer a img{ width: 100%;height: 0.12rem;display: block;}
